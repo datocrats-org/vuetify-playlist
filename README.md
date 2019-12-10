@@ -6,8 +6,8 @@ To see the course files, make sure you select the appropriate branch. E.g. to se
 Happy coding :)
 
 ```sh
-git checkout remotes/origin/lesson-31`
-cd /c/code/training/vuetify-playlist/todo-ninja
+git checkout remotes/origin/lesson-31
+cd /c/code/templates/vuetify-playlist/todo-ninja
 npm install
 npm audit fix
 ```
